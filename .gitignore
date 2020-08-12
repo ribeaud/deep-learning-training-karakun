@@ -1,2 +1,4 @@
-/Sentiment-Analysis-Data/
-/.ipynb_checkpoints/
+/Sentiment-Analysis-Data/AFINN/
+/Sentiment-Analysis-Data/IMDb/
+/Sentiment-Analysis-Data/Tweets/
+.ipynb_checkpoints/
